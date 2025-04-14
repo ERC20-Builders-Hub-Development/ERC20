@@ -61,7 +61,7 @@
 
 | **Token Name**    | **Investment Fees** |  
 |-------------------|---------------------|  
-| ExampleTokenA     | 3%                  |
+| ERC20 Volatility Index | 1.5%                  |
 
 ---
 
