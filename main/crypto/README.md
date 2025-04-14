@@ -59,9 +59,9 @@
 - **Transaction Fees**: These tokens include **transaction fees**, which are calculated within the transaction taxes. However, the fees are highlighted here for better clarity and orientation.
 - **Symbols**: Volatile tokens are typically marked with the symbols **(V)(T)** to denote their volatility.
 
-| **Token Name**    | **Investment Fees** |  
-|-------------------|---------------------|  
-| ERC20 Volatility Index | 1.5%                  |
+| **Token Name**    | **Investment Fees** | **Contract Address** |
+|-------------------|---------------------|---------------------|    
+| ERC20 Volatility Index | 1.5%           | [0xb27C51fDe6AD8b76198453b05bBa857bb0ac3319] |
 
 ---
 
