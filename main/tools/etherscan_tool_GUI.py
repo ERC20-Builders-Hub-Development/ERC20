@@ -13,7 +13,7 @@ from PyQt6.QtCore import Qt
 # Go to API Keys after logging in.
 # Click Create New API Key.
 # Note: do NOT share your key into the public! If it gets abused you can rotate it.
-API_KEY = "YOUR_ETHERSCAN_API_KEY"
+API_KEY = "ETHERSCAN_API_KEY"
 
 class EtherscanTool(QMainWindow):
     def __init__(self):
