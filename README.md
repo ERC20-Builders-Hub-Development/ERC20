@@ -31,6 +31,20 @@ Here's what you can find inside this repository:
 - 🧰 Helper contracts and custom tools
 - 🧪 Experimental or research-based smart contracts
 - ⚙️ Extensions for integrations or interoperability
+
+### `/main/code/tools/`  
+> Blockchain development tools and utility contracts designed to support the **ERC20 Builders** ecosystem. These are used for simplifying workflows, testing, or interacting with contracts more efficiently.  
+- 🧰 Blockchain-specific development tools  
+- 🛠️ Chain utilities and deployment helpers  
+- 🔧 Additional smart contract modules for testing, simulation, or automation
+
+---
+
+### `/main/code/logs/`  
+> Internal update logs stored on-chain to document progress and development milestones **before official releases**. Serves as a transparent changelog for contributors.  
+- 🧾 Pre-release development logs  
+- 📅 Time-stamped contract updates  
+- 📢 Contributor-based update tracking for ecosystem transparency
   
 ---
 
