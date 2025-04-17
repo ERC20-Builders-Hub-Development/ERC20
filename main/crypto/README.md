@@ -147,3 +147,42 @@ The **Root Account** is the most important account within the system, owned sole
 Reserved exclusively for the project's owner, the **Root Account** is fundamental to maintaining control and structure within the ecosystem.
 
 ---
+
+Sure! Here's a **professional disclaimer and information notice** you can use for your ERC20 tokens within the *ERC20 Builders Project*. You can paste this into your docs, website, or app:
+
+---
+
+## **Important Disclaimer & Information – ERC20 Builders Tokens**
+
+The ERC20 tokens used within the **ERC20 Builders** project are subject to the following conditions and limitations. Please read carefully:
+
+#### **1. No Real-World Value**
+- The tokens **hold no intrinsic or monetary value** outside of the **ERC20 Builders** ecosystem.
+- These tokens are **not** intended as financial instruments, investments, or securities.
+
+#### **2. No Fiat or Cryptocurrency Exchange**
+- **Exchanging or attempting to exchange** these tokens for **real-world currencies** (e.g., USD, EUR) or **cryptocurrencies** (e.g., ETH, BTC) is strictly **prohibited** and **technically blocked**.
+- Any attempt to monetize these tokens externally is a violation of the Terms of Use.
+
+#### **3. Ecosystem-Exclusive Use**
+- The tokens may **only be used within the official ERC20 Builders project environment**.
+- Their utility is limited to in-game, in-project, or community-specific features such as governance, reputation, rewards, or access.
+
+#### **4. No External Commercial Use**
+- **Commercial use of tokens outside the ERC20 Builders platform and community is not allowed.**
+- This includes, but is not limited to:
+  - Resale on external markets
+  - Use in third-party applications or games
+  - Bundling with products or services
+
+#### **5. Intellectual Property Protection**
+- The ERC20 token mechanics, branding, and overall project structure are intellectual property of the **ERC20 Builders** team.
+- Unauthorized replication, redistribution, or integration is forbidden.
+
+#### **6. Non-Transferability Clause (If Applicable)**
+- Tokens may be **non-transferable** outside of authorized addresses or smart contracts, depending on project settings.
+- Transfer restrictions are in place to **prevent abuse, fraud, or exploitation**.
+
+#### **7. Subject to Change**
+- Project administrators reserve the right to update, modify, or terminate token functionality and rules at any time without prior notice.
+- Participation in the ERC20 Builders project implies acceptance of all current and future rules.
