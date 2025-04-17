@@ -142,9 +142,8 @@ Key roles of the **Pool Account**:
 ### 4. **Root Account** *(Owner's Private Account)*  
 The **Root Account** is the most important account within the system, owned solely by the **project's creator**. It functions as the central hub for all token-related activities and holds significant authority over the system's operations. Key responsibilities of the **Root Account** include:
 - **Tax Collection**: It receives the majority of transaction taxes from taxed tokens and other associated revenue streams.
-- **Foundation for Other Accounts**: The Root Account oversees and controls the **Distribution** and **Service Accounts**, ensuring seamless coordination and management of token operations.
+- **Foundation for Other Accounts**: The Root Account oversees and controls the **Distribution** and **Service Accounts**, ensuring seamless coordination and management of token operations. Reserved exclusively for the project's owner, the **Root Account** is fundamental to maintaining control and structure within the ecosystem.
 
-Reserved exclusively for the project's owner, the **Root Account** is fundamental to maintaining control and structure within the ecosystem.
 ---
 
 ## **Important Disclaimer & Information – ERC20 Builders Tokens**
