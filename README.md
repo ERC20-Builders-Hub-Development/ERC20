@@ -38,8 +38,6 @@ Here's what you can find inside this repository:
 - 🛠️ Chain utilities and deployment helpers  
 - 🔧 Additional smart contract modules for testing, simulation, or automation
 
----
-
 ### `/main/code/logs/`  
 > Internal update logs stored on-chain to document progress and development milestones **before official releases**. Serves as a transparent changelog for contributors.  
 - 🧾 Pre-release development logs  
