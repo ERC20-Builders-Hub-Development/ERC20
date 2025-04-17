@@ -145,11 +145,6 @@ The **Root Account** is the most important account within the system, owned sole
 - **Foundation for Other Accounts**: The Root Account oversees and controls the **Distribution** and **Service Accounts**, ensuring seamless coordination and management of token operations.
 
 Reserved exclusively for the project's owner, the **Root Account** is fundamental to maintaining control and structure within the ecosystem.
-
----
-
-Sure! Here's a **professional disclaimer and information notice** you can use for your ERC20 tokens within the *ERC20 Builders Project*. You can paste this into your docs, website, or app:
-
 ---
 
 ## **Important Disclaimer & Information – ERC20 Builders Tokens**
