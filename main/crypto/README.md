@@ -65,6 +65,24 @@
 
 ---
 
+Ah! Got it — you want to make the **description for Rewardable Tokens** sound more polished and professional. Here's an improved version:
+
+---
+
+### Rewardable Tokens (R)
+
+> **Rewardable Tokens** are designed for those who enjoy a challenge and want to earn valuable digital assets in return. Introducing the *Rewardable Token System* — where solving puzzles and completing tasks in the **Challenge Hub** (developed by the ERC20 Builders community) can earn you exclusive token rewards.
+
+> Tokens available through these challenges are marked with **(R)** and may be subject to a small transaction fee, which is automatically collected by the challenge pool for sustainability and network utility.
+
+| **Token Name**    | **Transaction Fee** | **Token Value (USD)** | **Contract Address**   |
+|-------------------|---------------------|------------------------|------------------------|
+| **Xalvium (XAL)**     | 1.5%                 | $5.00                  | [To be announced]      |
+| **Solirium (SOLI)**   | 2.0%                 | $200.00                | [To be announced]      |
+| **Zether (ZTH)**      | 1.0%                 | $3,000.00              | [To be announced]     |
+
+---
+
 ### Token Short Symbols
 > Each token is identified by a fitting short symbol, commonly displayed during transactions or within desktop and mobile applications.
 
