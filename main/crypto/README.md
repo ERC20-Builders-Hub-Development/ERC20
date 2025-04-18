@@ -73,9 +73,9 @@
 
 | **Token Name**    | **Transaction Fee** | **Token Value (USD)** | **Contract Address**   |
 |-------------------|---------------------|------------------------|------------------------|
-| **Xalvium (XAL)**     | 1.5%                 | $5.00                  | [To be announced]      |
-| **Solirium (SOLI)**   | 2.0%                 | $200.00                | [To be announced]      |
-| **Zether (ZTH)**      | 1.0%                 | $3,000.00              | [To be announced]     |
+| **Xalvium (XAL)**     | 1.5%                 | $5.00                  | [0x7661Ab2af2BF6a8135d1c764613176266c515769]      |
+| **Solirium (SOLI)**   | 2.0%                 | $200.00                | [0x4372196e6e1111C233D8AbdB80b917Ef82388a6A]      |
+| **Zether (ZTH)**      | 1.0%                 | $3,000.00              | [0x2dc07948a1440012cDA286cFa0403fC14f48bc83]     |
 
 ---
 
