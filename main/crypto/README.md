@@ -2,6 +2,7 @@
 
 | **Token Name**       | **Value**         |
 |----------------------|-------------------|
+| **Quantum (T)**       | $ 1 Billion       |
 | **HavenX**            | $ 100 Million     |
 | **Exacoin**           | $10 Million       |
 | **TeraBit**           | $1 Million        |
@@ -30,6 +31,7 @@
 | **HashByte (T)**      | 7%                 |
 | **Aethera (T)**       | 5%                 |
 | **HavenX (T)**        | 2.5%               |
+| **Quantum (T)**       | 2%                 |
 
 ---
 
