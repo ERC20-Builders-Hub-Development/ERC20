@@ -15,7 +15,7 @@ Each token comes with its own features and pricing structure. Please read throug
 ## Token Types and Features
 
 ### 1. **Basic Token**
-- **Cost:** 0.05 SETH
+- **Cost:** 0.1 sETH
 - **Features:**
   - **Supply Limits:** Set a fixed supply for your token, ensuring no more tokens can be minted beyond the specified amount.
 - **Use Case:** Ideal for projects that require a basic ERC20 token with no advanced features.
@@ -23,7 +23,7 @@ Each token comes with its own features and pricing structure. Please read throug
 ---
 
 ### 2. **Essential Token**
-- **Cost:** 0.2 SETH
+- **Cost:** 0.2 sETH
 - **Features:**
   - **Supply Limits:** Just like the Basic Token, you can set a fixed supply for your token.
   - **Ownership:** The token will be owned by a specified address and only that address will have control over the token.
