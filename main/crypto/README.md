@@ -107,6 +107,7 @@
 
 | **Token Name**       | **Contract Address** |
 |----------------------|----------------------|
+| **Quantum (T)**       | [0x3891f14f7AA5Fb77ba236847E7Ecaa51cf62aCFD]     |
 | **HavenX (T)**        | [0x6dd94bCDB9B5043d206c2c655d681023c23bBf44]     |
 | **Exacoin**           | [0xFB6824c0a5d0191c0C2d7729E9C43427ba67632a]     |
 | **TeraBit**           | [0x737B9B3AF7A685b5f88d7C2DeEbDA92A1e3516F2]     |
