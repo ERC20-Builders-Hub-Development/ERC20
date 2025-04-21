@@ -89,8 +89,7 @@ python erc_miner.py
 2. Click **"📂 Load Block JSON"** and select your block file from the `blockchain/` folder.
 3. The miner will:
    - Read the `challenge_hash` and `difficulty`
-   - Simulate mining with a similarity threshold of **30–50%**
-   - Output mining progress every 100 attempts
+   - Output mining progress every 10.000 attempts
 4. Once mining is successful:
    - You'll receive a **Mined Hash**
    - A **Nonce** used
