@@ -2,7 +2,8 @@
 
 | **Token Name**       | **Value**         |
 |----------------------|-------------------|
-| **xToken (T)**        | $ 5 Billion       |
+| **Meta Unit (T)**     | $ 10 Billion      |
+| **xToken (T)**        | $ 5 Billion       | 
 | **Quantum (T)**       | $ 1 Billion       |
 | **HavenX**            | $ 100 Million     |
 | **Exacoin**           | $10 Million       |
@@ -34,6 +35,7 @@
 | **xToken (T)**        | 3%                 |
 | **HavenX (T)**        | 2.5%               |
 | **Quantum (T)**       | 2%                 |
+| **Meta Unit (T)**     | 2%                 |
 
 ---
 
@@ -111,10 +113,11 @@
 
 | **Token Name**       | **Contract Address** |
 |----------------------|----------------------|
+| **Meta Unit (T)**     | [0x708dc47264Fd7E54D3D9DfD9Da35A8696586BC70]     |
 | **xToken (T)**        | [0x69528f9349B7183987a6470A45035E9eDA98bEa3]     |
 | **Quantum (T)**       | [0x3891f14f7AA5Fb77ba236847E7Ecaa51cf62aCFD]     | 
 | **HavenX (T)**        | [0x6dd94bCDB9B5043d206c2c655d681023c23bBf44]     |
-| **Exacoin**           | [0xFB6824c0a5d0191c0C2d7729E9C43427ba67632a]     |
+| **Exacoin**           | [0xFB6824c0a5d0191c0C2d7729E9C43427ba67632a]     | 
 | **TeraBit**           | [0x737B9B3AF7A685b5f88d7C2DeEbDA92A1e3516F2]     |
 | **Contract (T)**      | [0x2d5bA9E167c9625A9243600bA86a94C47F6a35d6]     |
 | **TrollCoin (T)**     | [0xF6ce4E46eAFcCdF2A2104BB97D705916970e2210]     |
