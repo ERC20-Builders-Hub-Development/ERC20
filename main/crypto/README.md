@@ -2,6 +2,7 @@
 
 | **Token Name**       | **Value**         |
 |----------------------|-------------------|
+| **xToken (T)**        | $ 5 Billion       |
 | **Quantum (T)**       | $ 1 Billion       |
 | **HavenX**            | $ 100 Million     |
 | **Exacoin**           | $10 Million       |
@@ -30,6 +31,7 @@
 | **TrollCoin (T)**     | 10%                |
 | **HashByte (T)**      | 7%                 |
 | **Aethera (T)**       | 5%                 |
+| **xToken (T)**        | 3%                 |
 | **HavenX (T)**        | 2.5%               |
 | **Quantum (T)**       | 2%                 |
 
@@ -86,6 +88,8 @@
 
 | **Token Name**         | **Symbol Signature** |
 |------------------------|----------------------|
+| **xToken (T)**          | XTK                  |
+| **Quantum (T)**         | QNT                  |
 | **HavenX** _(T)_        | HVN                  |
 | **Exacoin**             | EXC                  |
 | **TeraBit**             | TBT                  |
@@ -107,7 +111,8 @@
 
 | **Token Name**       | **Contract Address** |
 |----------------------|----------------------|
-| **Quantum (T)**       | [0x3891f14f7AA5Fb77ba236847E7Ecaa51cf62aCFD]     |
+| **xToken (T)**        | [0x69528f9349B7183987a6470A45035E9eDA98bEa3]     |
+| **Quantum (T)**       | [0x3891f14f7AA5Fb77ba236847E7Ecaa51cf62aCFD]     | 
 | **HavenX (T)**        | [0x6dd94bCDB9B5043d206c2c655d681023c23bBf44]     |
 | **Exacoin**           | [0xFB6824c0a5d0191c0C2d7729E9C43427ba67632a]     |
 | **TeraBit**           | [0x737B9B3AF7A685b5f88d7C2DeEbDA92A1e3516F2]     |
@@ -146,7 +151,7 @@ This account plays an essential role in tracking and managing tokens related to 
 
 ---
 
-### 3. **Pool Account**  
+### 3. **Pool Account**  (Moved to Service Account)
 The **Pool Account** is primarily designed to collect various fees, such as liquidity and marketing fees, particularly for **Specialized (SP)** tokens. It helps separate these fees from other operational funds, offering better organization and transparency within the ERC-20 token ecosystem. 
 
 Key roles of the **Pool Account**:
