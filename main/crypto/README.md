@@ -90,6 +90,7 @@
 
 | **Token Name**         | **Symbol Signature** |
 |------------------------|----------------------|
+| **Meta Unit (T)**       | MUT                  |
 | **xToken (T)**          | XTK                  |
 | **Quantum (T)**         | QNT                  |
 | **HavenX** _(T)_        | HVN                  |
