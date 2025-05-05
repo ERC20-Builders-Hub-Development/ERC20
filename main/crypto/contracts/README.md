@@ -1,14 +1,3 @@
-Sure! Here's a complete, professional `README.md` for `main/crypto/contracts/README.md` that covers everything you've described, including:
-
-* An introduction
-* Purpose of the contracts
-* Purchase/sale mechanism
-* Contract list sorted by value
-* Notes for investors and users
-
----
-
-````markdown
 # 💼 Crypto Contracts – Wealth Storage & Verification Protocol
 
 Welcome to the **Crypto Contracts Suite** – a premium selection of blockchain-based digital contracts designed to represent **stored wealth**, **identity integrity**, and **proof-of-ownership** in a decentralized ecosystem.
