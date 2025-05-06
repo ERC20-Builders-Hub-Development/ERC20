@@ -37,14 +37,14 @@ Each contract serves one or more of the following goals:
 | TrustLock Cert Contract               | TLCX   | [0x27B0873C4a35B185C43BE9E62fBfaB8739a1F439] | \$10,000,000,000   |
 | ImmutableConsensus Engine Contract    | ICEC   | [0x662e524da63765434224533c5f0d87EEAf18bCF6] | \$5,000,000,000    |
 | SecureChain Gateway Protocol Contract | SGPC   | [0x6F96897B4a4600Df6f54f9Af14AC2dF9d39134d5] | \$1,000,000,000    |
-| ProofLedger Hash Contract             | PLHC   | [0xB91b7a4377800F4466B9cEfe79Ae1041592b09f6]     | \$750,000,000      |
-| OriginHash Validation Contract        | OHVC   | [0xCC2D902807c143352C065E60bB124b9Cf89249e1]     | \$100,000,000      |
-| DigiAsset Registry Contract           | DARC   | [0x0EFc8615bFdB4628f083a0168896a07E6eA46856]     | \$250,000,000      |
-| OmniProof Auth Contract               | OPAX   | [0xc52C7a075Ee35879143212d21c2ba4012150bfEB]     | \$30,000,000       |
-| ChainTrust Rights Contract            | CTRC   | [0x37De06fF49C3591826802B6ba5Fc719c3a8Dc091]     | \$15,000,000       |
-| CoreSig Proof Contract                | CSPC   | [0xEa65116D65C55746A81FdB87efB39f85f7c1bF0D]     | \$10,000,000       |
-| CrypAccess Bridge Contract            | CABC   | [0x5a8A0A3722f8239bD42acAbEeD0D352f7C990c97]     | \$10,000,000       |
-| UniCompliance Layer Contract          | UCLC   | [0x970Abb2e1165930e88Db340F72bF4017A03cfB94]     | \$5,000,000        |
+| ProofLedger Hash Contract             | PLHC   | [0xB91b7a4377800F4466B9cEfe79Ae1041592b09f6] | \$750,000,000      |
+| OriginHash Validation Contract        | OHVC   | [0xCC2D902807c143352C065E60bB124b9Cf89249e1] | \$100,000,000      |
+| DigiAsset Registry Contract           | DARC   | [0x0EFc8615bFdB4628f083a0168896a07E6eA46856] | \$250,000,000      |
+| OmniProof Auth Contract               | OPAX   | [0xc52C7a075Ee35879143212d21c2ba4012150bfEB] | \$30,000,000       |
+| ChainTrust Rights Contract            | CTRC   | [0x37De06fF49C3591826802B6ba5Fc719c3a8Dc091] | \$15,000,000       |
+| CoreSig Proof Contract                | CSPC   | [0xEa65116D65C55746A81FdB87efB39f85f7c1bF0D] | \$10,000,000       |
+| CrypAccess Bridge Contract            | CABC   | [0x5a8A0A3722f8239bD42acAbEeD0D352f7C990c97] | \$10,000,000       |
+| UniCompliance Layer Contract          | UCLC   | [0x970Abb2e1165930e88Db340F72bF4017A03cfB94] | \$5,000,000        |
 
 ---
 
