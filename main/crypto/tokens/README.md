@@ -2,7 +2,8 @@
 
 | **Token Name**       | **Value**         |
 |----------------------|-------------------|
-| **Meta Unit (T)**     | $ 10 Billion      |
+| **Aureus (T)**        | $ 100 Billion     |
+| **Meta Unit (T)**     | $ 10 Billion      | "Aureus": 100000000000,
 | **xToken (T)**        | $ 5 Billion       | 
 | **Quantum (T)**       | $ 1 Billion       |
 | **HavenX**            | $ 100 Million     |
@@ -17,6 +18,10 @@
 | **BitChain**          | $10               |
 | **Ticket**            | $1                |
 | **MicroBux (T)**      | $ 0.01            |
+
+            "Quadron": 1000000000000000,
+            "TCycle": 1000000000000,
+            
 
 ---
 
