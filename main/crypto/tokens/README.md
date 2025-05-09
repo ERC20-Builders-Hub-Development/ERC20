@@ -2,8 +2,10 @@
 
 | **Token Name**       | **Value**         |
 |----------------------|-------------------|
+| **Quadron (T)**       | $ 1 Quadrillion   |
+| **TCycle (T)**        | $ 1 Trillion      |
 | **Aureus (T)**        | $ 100 Billion     |
-| **Meta Unit (T)**     | $ 10 Billion      | "Aureus": 100000000000,
+| **Meta Unit (T)**     | $ 10 Billion      |
 | **xToken (T)**        | $ 5 Billion       | 
 | **Quantum (T)**       | $ 1 Billion       |
 | **HavenX**            | $ 100 Million     |
@@ -18,9 +20,6 @@
 | **BitChain**          | $10               |
 | **Ticket**            | $1                |
 | **MicroBux (T)**      | $ 0.01            |
-
-            "Quadron": 1000000000000000,
-            "TCycle": 1000000000000,
             
 
 ---
@@ -41,6 +40,9 @@
 | **HavenX (T)**        | 2.5%               |
 | **Quantum (T)**       | 2%                 |
 | **Meta Unit (T)**     | 2%                 |
+| **Aureus (T)**        | 1%                 |
+| **TCycle (T)**        | 1%                 |
+| **Quadron (T)**       | 1%                 |
 
 ---
 
@@ -95,6 +97,9 @@
 
 | **Token Name**         | **Symbol Signature** |
 |------------------------|----------------------|
+| **Quadron (T)**         | QDR                  |
+| **TCycle (T)**          | TCL                  |
+| **Aureus (T)**          | ARS                  |
 | **Meta Unit (T)**       | MUT                  |
 | **xToken (T)**          | XTK                  |
 | **Quantum (T)**         | QNT                  |
@@ -119,6 +124,9 @@
 
 | **Token Name**       | **Contract Address** |
 |----------------------|----------------------|
+| **Quadron (T)**       | [0x9C0e4dF33b332a0c93A1C9ED1e8e3a00E1F405a1]     |
+| **TCycle (T)**        | [0x3C7B186c11466e219fA47Ba2d7E91Dec311309bC]     |
+| **Aureus (T)**        | [0x51dbeebe0C7Dbc500adCF6296650f444a2C726aE]     |
 | **Meta Unit (T)**     | [0x708dc47264Fd7E54D3D9DfD9Da35A8696586BC70]     |
 | **xToken (T)**        | [0x69528f9349B7183987a6470A45035E9eDA98bEa3]     |
 | **Quantum (T)**       | [0x3891f14f7AA5Fb77ba236847E7Ecaa51cf62aCFD]     | 
@@ -160,7 +168,7 @@ This account plays an essential role in tracking and managing tokens related to 
 
 ---
 
-### 3. **Pool Account**  (Moved to Service Account)
+### 3. **Pool Account**  ***(Moved to Service Account)***
 The **Pool Account** is primarily designed to collect various fees, such as liquidity and marketing fees, particularly for **Specialized (SP)** tokens. It helps separate these fees from other operational funds, offering better organization and transparency within the ERC-20 token ecosystem. 
 
 Key roles of the **Pool Account**:
