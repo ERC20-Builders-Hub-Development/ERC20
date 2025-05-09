@@ -97,12 +97,12 @@
 
 | **Token Name**         | **Symbol Signature** |
 |------------------------|----------------------|
-| **Quadron (T)**         | QDR                  |
-| **TCycle (T)**          | TCL                  |
-| **Aureus (T)**          | ARS                  |
-| **Meta Unit (T)**       | MUT                  |
-| **xToken (T)**          | XTK                  |
-| **Quantum (T)**         | QNT                  |
+| **Quadron** _(T)_       | QDR                  |
+| **TCycle** _(T)_        | TCL                  |
+| **Aureus** _(T)_        | ARS                  |
+| **Meta Unit** _(T)_     | MUT                  |
+| **xToken** _(T)_        | XTK                  |
+| **Quantum** _(T)_       | QNT                  |
 | **HavenX** _(T)_        | HVN                  |
 | **Exacoin**             | EXC                  |
 | **TeraBit**             | TBT                  |
