@@ -3,7 +3,8 @@
 | **Token Name**       | **Value**         |
 |----------------------|-------------------|
 | **Quadron (T)**       | $ 1 Quadrillion   |
-| **TCycle (T)**        | $ 1 Trillion      |
+| **Zenero (T)**        | $ 5 Trillion      |
+| **TCycle (T)**        | $ 1 Trillion      | 
 | **Aureus (T)**        | $ 100 Billion     |
 | **Meta Unit (T)**     | $ 10 Billion      |
 | **xToken (T)**        | $ 5 Billion       | 
@@ -34,6 +35,7 @@
 | **ChainMint (T)**     | 20%                |
 | **Contract (T)**      | 15%                |
 | **TrollCoin (T)**     | 10%                |
+| **Zenero (T)**        | 10%                |
 | **HashByte (T)**      | 7%                 |
 | **Aethera (T)**       | 5%                 |
 | **xToken (T)**        | 3%                 |
@@ -98,6 +100,7 @@
 | **Token Name**         | **Symbol Signature** |
 |------------------------|----------------------|
 | **Quadron** _(T)_       | QDR                  |
+| **Zenero** _(T)_        | ZNR                  |
 | **TCycle** _(T)_        | TCL                  |
 | **Aureus** _(T)_        | ARS                  |
 | **Meta Unit** _(T)_     | MUT                  |
@@ -125,6 +128,7 @@
 | **Token Name**       | **Contract Address** |
 |----------------------|----------------------|
 | **Quadron (T)**       | [0x9C0e4dF33b332a0c93A1C9ED1e8e3a00E1F405a1]     |
+| **Zenero (T)**        | [0xD377E20fB070a8FE9257Ed34c88Ee1c40615798b]     |
 | **TCycle (T)**        | [0x3C7B186c11466e219fA47Ba2d7E91Dec311309bC]     |
 | **Aureus (T)**        | [0x51dbeebe0C7Dbc500adCF6296650f444a2C726aE]     |
 | **Meta Unit (T)**     | [0x708dc47264Fd7E54D3D9DfD9Da35A8696586BC70]     |
