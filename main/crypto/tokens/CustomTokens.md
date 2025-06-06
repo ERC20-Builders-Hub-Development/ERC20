@@ -4,9 +4,8 @@ Welcome to the **Custom Tokens Request Guide** for the ERC20 Builders Hub! This 
 
 We offer three types of tokens:
 
-1. **Basic Token**
-2. **Essential Token**
-3. **Taxable Token**
+1. **Essential Token**
+2. **Taxable Token**
 
 Each token comes with its own features and pricing structure. Please read through the information below to understand which token type best suits your needs.
 
@@ -14,18 +13,12 @@ Each token comes with its own features and pricing structure. Please read throug
 
 ## Token Types and Features
 
-### 1. **Basic Token**
-- **Cost:** 0.1 sETH
-- **Features:**
-  - **Supply Limits:** Set a fixed supply for your token, ensuring no more tokens can be minted beyond the specified amount.
-- **Use Case:** Ideal for projects that require a basic ERC20 token with no advanced features.
-
 ---
 
-### 2. **Essential Token**
+### 1. **Essential Token**
 - **Cost:** 0.2 sETH
 - **Features:**
-  - **Supply Limits:** Just like the Basic Token, you can set a fixed supply for your token.
+  - **Supply Limits:** You can set a fixed supply for your token.
   - **Ownership:** The token will be owned by a specified address and only that address will have control over the token.
   - **Mintable:** New tokens can be minted by the owner of the contract, allowing for the expansion of the token supply as needed.
   - **Burnable:** The owner can burn tokens, permanently removing them from circulation.
@@ -35,7 +28,7 @@ Each token comes with its own features and pricing structure. Please read throug
 
 ---
 
-### 3. **Taxable Token**
+### 2. **Taxable Token**
 - **Cost:** 0.6 SETH
 - **Features:**
   - **Supply Limits:** Same as the Essential Token, you can set a fixed supply.
@@ -51,7 +44,7 @@ Each token comes with its own features and pricing structure. Please read throug
 
 ## How to Request a Custom Token
 
-1. **Determine the Token Type:** Choose from the Basic, Essential, or Taxable token types based on the features and use cases that best suit your project.
+1. **Determine the Token Type:** Choose from the Essential, or Taxable token types based on the features and use cases that best suit your project.
    
 2. **Provide Necessary Details:**
    - **Token Name:** Choose a name for your token (e.g., MyToken).
