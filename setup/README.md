@@ -1,4 +1,4 @@
-## MetaMask Setup Guide (2025 Edition)
+## MetaMask Setup Guide
 
 ### 🔹 Step 1: Install MetaMask
 
